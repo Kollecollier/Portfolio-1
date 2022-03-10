@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Cormorant Garamond', serif;
-    font-weight: 400%;
+    font-weight: 250%;
     color: #3a3a3a
 }
 
@@ -28,12 +28,19 @@ h1, h2 {
     
 }
 
+#menu, #logo {
+    line-height: 75px;
+}
 
 /* Nav links*/
+
+
+
 #menu {
-    font-size: 130%;
+    font-size: 200%;
     font-family: 'Cormorant Garamond', serif;
     letter-spacing: 4px;
+    text-transform: uppercase;
 
 }
 
@@ -41,5 +48,18 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    padding-top: 20px;
+}
+
+#menu a {
+    text-decoration: line-through;
+    color: grey;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid grey;
+    border-top: 2px solid grey;  
+}
+
+.active {
+    border-bottom: 2px solid grey;
 }
