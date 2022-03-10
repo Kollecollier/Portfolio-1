@@ -1,0 +1,29 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+</style>
+
+* {
+    margin: 0;
+    border: 0;
+    padding: none;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    color: #3a3a3a;
+}
+
+/* Heading and logos*/
+
+h1, h2 {
+    font-family: 'Manrope', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4.5px;
+    color: #3a3a3a;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+}
