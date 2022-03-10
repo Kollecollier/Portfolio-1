@@ -1,6 +1,5 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
 
 * {
     margin: 0;
@@ -9,21 +8,38 @@
 }
 
 body {
-    font-family: 'Manrope', sans-serif;
-    font-weight: 700;
-    color: #3a3a3a;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 400%;
+    color: #3a3a3a
 }
 
 /* Heading and logos*/
 
 h1, h2 {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     text-transform: uppercase;
-    letter-spacing: 4.5px;
+    letter-spacing: 4px;
     color: #3a3a3a;
 }
 
 #logo {
     float: left;
     font-size: 300%;
+    
+}
+
+
+/* Nav links*/
+#menu {
+    font-size: 130%;
+    font-family: 'Cormorant Garamond', serif;
+    letter-spacing: 4px;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    padding-top: 20px;
 }
