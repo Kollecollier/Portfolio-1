@@ -57,9 +57,20 @@ h1, h2 {
 
 #menu a:hover {
     border-bottom: 2px solid grey;
-    border-top: 2px solid grey;  
+    border-top: 2px solid grey;
+    color:crimson;
 }
 
 .active {
     border-bottom: 2px solid grey;
+}
+
+
+/* main image */
+
+#main-image {
+ height: 600px;
+ width: 100%;
+ background: url(../css/Images/15082021-STH02195.png);
+ overflow: hidden;
 }
