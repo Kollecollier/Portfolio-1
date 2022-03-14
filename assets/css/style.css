@@ -148,3 +148,37 @@ hr {
 #media {
     text-align: center;
 }
+
+#media > h3 {
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+#right-video {
+    padding-top: 30px;
+    width: 100%;
+    overflow: auto;
+}
+
+
+#this-media {
+    text-decoration: underline;
+}
+
+#h3-sleep {
+    font-size: 210%;
+    padding-right: 59%;
+}
+
+#h3-frozen {
+    font-size: 210%;
+    padding-right: 59%;
+    padding-top: 30px;
+}
+
+#h3-tearing {
+    font-size: 210%;
+    padding-right: 56%;
+    padding-top: 30px;
+}
