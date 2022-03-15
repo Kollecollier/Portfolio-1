@@ -1,1 +1,1 @@
-# Erase The Day First Proje
+# Erase The Day First HTML/CSS PROJECT
