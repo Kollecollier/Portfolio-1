@@ -4,7 +4,7 @@ In this project i wanted to make a fresh website for my personal band called [Er
 With this project i wanted to accomplish a clean easy way to use and navigate in out website for our audiance. The website is easy to navigate and makes everything very clear and simple for the users and user understanding and experience. 
 
 
-![This is an image](assets/css/Images/readme.photos/FireShot%20Capture%20001%20-%20Multi%20Device%20Website%20Mockup%20Generator%20-%20techsini.com.png)
+![This is an image](assets/css/Images/readme.photos/multi.mock.png)
 
 # Features
 
@@ -55,7 +55,6 @@ With this project i wanted to accomplish a clean easy way to use and navigate in
    - Upon clicking the selected icon, you will be navigated to a new page. These have a blank taget so you wont have to close the current page or be moved elsewere.
 
 
-   ![This is an image]
 
 
 
@@ -64,10 +63,58 @@ With this project i wanted to accomplish a clean easy way to use and navigate in
 - HTML, Css W3C Validator
   - As showed on images below, no error's was detected in the HTML and CSS!
 
-  ![This is an image](/assets/css/Images/readme.photos/HTML.Valid.png)
+  ![This is an image](/assets/css/Images/readme.photos/HTML.Valid.png) Add link
 
 
-   ![This is an image](/assets/css/Images/readme.photos/css.valid.png)
+   ![This is an image](/assets/css/Images/readme.photos/css.valid.png) Add link
+
+
+   # Queries
+
+- More than 1000px wide.
+
+  -  The header is a logo on the left and a menu on the right
+
+  - The presentation includes a picture
+  - The menu button's are displayed side by side
+  - The about section is displayed in two columns
+  - The Footer is i column with media icons
+
+- Under 1000px and over 650px
+
+  - Header changes size to a smaller size
+  - About section stays the same ( 2 columns under 650px)
+  - Footer stay's the same
+
+
+
+   # Language
+    - CSS
+    - HTML
+
+   # Lighthouse
+  - Mobile result ![This is image](assets/css/Images/readme.photos/lighthouse.mobile.png)
+---
+
+
+  - Deskop result ![This is image](assets/css/Images/readme.photos/lighthouse.deskop.png)
+  
+
+
+   # Tested mobile devices
+  - Visual tested from 1200px and under, from 950px and under
+    - Iphone 12 SE
+    - Iphone XR
+    - Iphone 12 Pro
+    - Pixel 5
+    - Galaxy s8+
+    - Galaxy s20 Ultra
+    - Ipad Air
+    - Ipad Mini
+    - Surface Pro 7
+    - Surface Duo
+    - Galaxy Fold
+    - Galaxy A51/71
 
 - # Bugs
   - No bugs were found in this repo!
